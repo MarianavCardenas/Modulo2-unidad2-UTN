@@ -1,0 +1,32 @@
+
+.navbar-brand{
+    padding-left: 46%;
+}
+
+
+.col-4{
+    width: 250 px; height:350px;
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+.col-md-4{
+    width: 200px; height: 300px;
+    display:contents;
+    
+   
+}
+
+.card-body{
+    margin-right: 20%;
+}
+
+
+
+.img-thumbnail{
+    margin-left: 3%;
+    margin-bottom: 10%;
+}
+ .ps-0{
+    padding-right: 80%;
+ }
+
